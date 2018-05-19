@@ -1,5 +1,5 @@
 # 1. 介绍
-
+https://blog.csdn.net/cl111c/article/details/74912479?locationNum=5&fps=1
 `FlymeOS`开源项目致力于为开发者提供业界一流的ROM适配工具。
 
 二零一五年六月三十日，`FlymeOS`开放适配终于来了，我们相信虽晚未迟。
